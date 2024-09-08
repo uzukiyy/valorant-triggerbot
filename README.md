@@ -9,3 +9,7 @@ By pressing the Alt key, users can effortlessly switch between their primary and
 The software also disables the Raw Input Buffer—a feature that some players find reduces input lag in high-paced environments—giving you a smoother and more responsive control over your movements.
 
 Whether you're in the midst of a tense 1v1 or leading your team to victory, the uzuki.wtf ensures that your gameplay remains fluid, responsive, and optimized for success.
+
+
+https://github.com/user-attachments/assets/e31716ee-80e6-4c5d-98de-4f3cf0efceab
+
